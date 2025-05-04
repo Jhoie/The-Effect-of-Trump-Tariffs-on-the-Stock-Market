@@ -1,21 +1,17 @@
-# The-Effect-of-Trump-s-Traffics-on-the-Stock-Market
+# The-Effect-of-Trump-s-Tariffs-on-the-Stock-Market
 
-📚 Table of Contents
-Overview
+## Table of Contents
 
-Dataset
+~ Overview
+~ Dataset
+~ Analysis Process
+~ Key Insights
+~ Built With
+~ Acknowledgments
+~ Disclaimer
 
-Analysis Process
 
-Links
-
-Built With
-
-Key Insights
-
-Acknowledgments
-
-🧾 Overview
+## Overview
 This portfolio project explores the effect of former U.S. President Donald Trump’s tariff announcements on the U.S. stock market. By analyzing market volatility, industry-specific sensitivities, and recovery patterns, this project uncovers how political decisions can influence investor sentiment and market behavior.
 
 Using SQL to extract event-specific data windows and Python for visual storytelling, the project offers a data-driven narrative of how sectors like tech, food, and manufacturing responded to tariff shocks.
