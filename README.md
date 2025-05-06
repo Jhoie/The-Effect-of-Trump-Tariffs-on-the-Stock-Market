@@ -2,91 +2,90 @@
 
 ## Table of Contents
 
-~ Overview(#overview)
-~ Dataset
-~ Analysis Process
-~ Key Insights
-~ Built With
-~ Acknowledgments
-~ Disclaimer
+- [Overview](#overview)
+- [Analysis Process](#analysis-process)
+  - Data sources 
+  - Data description 
+  - Data cleaning
+  - Analysis 
+  - Logical reasoning 
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations) 
+- [Limitations](#limitations) 
+- [Tools](#tools-used)
+- [Acknowledgments](#acknowledgments) 
+- [Disclaimers](#disclaimers) 
+
+## Overview
+This project explores how U.S. stock markets responded to President Donald Trump’s tariff announcements — specifically looking at volatility, industry-specific reactions, and how quickly stock prices bounced back.
+
+The goal was to unpack how political actions ripple through financial systems, using real market data, structured SQL logic, and Python for data cleaning.
 
 
-## [Overview](#overview)
-This portfolio project explores the effect of former U.S. President Donald Trump’s tariff announcements on the U.S. stock market. By analyzing market volatility, industry-specific sensitivities, and recovery patterns, this project uncovers how political decisions can influence investor sentiment and market behavior. 
+## Analysis Process
+The analysis followed a structured path: identify key policy events, align them with stock price activity, and measure market reaction in terms of volatility and recovery timelines.
+* #### Dataset Sources
+  - Stock Prices: Historical daily data from Yahoo Finance
+  - Tariff News: Compiled using official press releases from BBC and Reed Smith LLP
 
-Using SQL to extract event-specific data windows and Python for visual storytelling, the project offers a data-driven narrative of how sectors like tech, food, and manufacturing responded to tariff shocks.
+* #### Data Description
+  - stock_prices.csv
+Includes date, ticker, open/high/low/close prices, volume, industry, brand name, country, and market close time.
+  - tariff_news.csv
+Captures tariff event date, summary, targeted country, and the affected sector.
 
-📊 Dataset
-This analysis uses two key datasets:
+* #### Data Cleaning
+  - Data cleaning was done in Python (pandas), including:
+  - Removing duplicates and invalid dates
+  - Standardizing symbols and formats
+  - Handling missing values in industry and brand fields
+  - Filtering for U.S.-based stocks only
+  - Merging consistent sector and country labels
+  - Aligning with valid market-open days
+  - Cleaned files are stored in the data/cleaned/ directory.
 
-Stock Prices Dataset:
-Daily historical prices for selected U.S. stocks (Open, High, Low, Close, Volume), along with associated industry and country labels.
+* #### Analysis
+  - Analysis areas included:
+  - Volatility Tracking: % price changes before/after announcements
+  - Sector Sensitivity: Grouped by industry
+  - Recovery Timeline: Days until prices normalized
+  - Event Window Analysis: Studied behavior at -1, 0, +1, and +5 trading days
+  - SQL handled the heavy lifting, with Python charts backing the visuals.
 
-~200,000+ records
+* #### Logical Reasoning
+  - This wasn’t just a numbers exercise — clarity and methodology were key.
+  - I defined event windows from the first trading day after announcements, excluded weekends, and structured SQL logic with Common Table Expressions (CTEs) for clarity and efficiency.
+  - Volatility was calculated using rolling standard deviations and percent changes. Industry-level insights were derived by joining stock data with sector metadata.
+  - Prices weren’t smoothed or inflation-adjusted — I wanted to reflect what real investors saw in real time.
 
-Fields: ticker, date, close_price, industry, brand_name
+## Key Insights
+- Stock prices usually dipped within 24–48 hours of major announcements
+- Tech and food sectors saw the highest volatility
+- Some brands bounced back in under 3 days; others stayed down
+- China-related tariffs triggered the biggest market responses
+- Market behavior varied based on the day of the week the news broke
 
-Tariff Announcements Dataset:
-Contains the date, description, and country target of each Trump-era tariff announcement.
+## Recommendations
+- This isn’t investment advice — it’s a data story.
+- Before acting on any findings, please do your own research or consult a licensed advisor.
 
-Includes ~20 key policy events spanning multiple sectors and years.
+## Limitations
+- Static Data: Not connected to a live API, so updates won’t reflect
+- Time-Bound: Analysis only covers 2016–2020; not meant to forecast
+- Open Collaboration: Contributions welcome — let’s build a live dashboard version together
 
-Fields: date_news, tariff_news, affected_country, industry
+## Tools Used
+- SQL (PostgreSQL) – Event-driven analysis
+- Python (pandas, matplotlib, seaborn) – Cleaning and visualization
+- Jupyter Notebooks – Exploration and plotting
+- GitHub – Version control and publishing
 
-Both datasets were cleaned and imported into a PostgreSQL database. From there, event windows were defined and used to create new analytical tables for volatility and recovery calculations.
+## Acknowledgments
+Thanks to the finance/data community — especially EntryLevel, DataFam, and others whose feedback helped shape this project.
+Big appreciation to Yahoo Finance and USITC for open access to high-quality data.
 
-🔍 Analysis Process
-To answer the key economic questions, I took the following steps:
+## Disclaimers
+This is a data-driven analysis with no political affiliation.
+While Trump’s tariff policies are the case study, the stock market reacts to countless variables.
 
-Define Event Trading Day:
-Identify the first actual trading day after a tariff was announced (to avoid weekends and market holidays).
-
-Calculate Pre-Event and Post-Event Prices:
-Capture the closing prices on the day before, the day of, and several days after each event.
-
-Volatility Analysis:
-Compute percentage price changes and rolling standard deviations across event windows to assess short-term market volatility.
-
-Industry Sensitivity Breakdown:
-Group stocks by sector to determine which industries responded most dramatically.
-
-Recovery Timeline Mapping:
-Track how many days it took for stock prices to return to pre-announcement levels—if at all.
-
-🔗 Links
-📌 SQL Query Scripts Folder
-
-📒 Exploratory Python Notebook
-
-📈 Final Charts & Visuals Folder
-
-📂 Cleaned Datasets
-
-🧠 Query Logic Documentation
-
-🛠 Built With
-PostgreSQL – Data querying and transformation
-
-Python – Analysis and visualizations (pandas, matplotlib, seaborn)
-
-Jupyter Notebook – Presentation of insights
-
-Git/GitHub – Version control and portfolio hosting
-
-💡 Key Insights
-📉 Volatility spiked sharply within 1–2 trading days of each tariff announcement.
-
-📊 Technology and food sectors were most sensitive to tariff-related news.
-
-⏳ Recovery rates varied: Some stocks rebounded in 3–5 days, others never did within the 10-day window.
-
-🌍 Tariffs on Chinese and EU goods triggered larger swings than those targeting smaller economies.
-
-🧾 Certain brands like McDonald's and Boeing showed remarkable resilience.
-
-📅 Timing matters: Announcements made midweek showed faster price adjustments than those made on Fridays.
-
-📐 Price distributions post-event skewed lower, indicating bearish sentiment immediately after announcements.
-
-🙏 Acknowledgments
-Special thanks to publicly available financial datasets like Yahoo Finance and macroeconomic sources like the United States International Trade Commission (USITC) for the foundational data. Grateful also to the DataFam and analytics communities for ongoing feedback on this project.
+This project isolates one variable — policy news — to study cause-effect patterns, not to suggest a full economic diagnosis.
