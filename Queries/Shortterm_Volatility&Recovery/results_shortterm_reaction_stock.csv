@@ -1,0 +1,790 @@
+Ticker,Brand_Name,event_date,prev_trading_day,actual_event_trading_day,next_trading_day,Tarrif_News,close_before_event,close_on_event,close_after_event,pct_change_before_to_event,pct_change_event_to_after
+AAPL,apple,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",236,228.0099945,232.8000031,-3.39,2.1
+AAPL,apple,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",236,228.0099945,232.8000031,-3.39,2.1
+AAPL,apple,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",227.6300049,227.6499939,232.6199951,0.01,2.18
+AAPL,apple,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",238.0299988,235.9299927,235.7400055,-0.88,-0.08
+AAPL,apple,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",235.9299927,235.7400055,235.3300018,-0.08,-0.17
+AAPL,apple,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",235.3300018,239.0700073,227.4799957,1.59,-4.85
+AAPL,apple,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",220.8399963,216.9799957,209.6799927,-1.75,-3.36
+AAPL,apple,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",223.75,221.5299988,223.8500061,-0.99,1.05
+AAPL,apple,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",223.1900024,223.8899994,203.1900024,0.31,-9.25
+AAPL,apple,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",188.3800049,181.46,172.4199982,-3.67,-4.98
+AAPL,apple,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",172.4199982,198.8500061,190.4199982,15.33,-4.24
+AAPL,apple,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",198.8500061,190.4199982,198.1499939,-4.24,4.06
+AAPL,apple,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,190.4199982,198.1499939,202.5200043,4.06,2.21
+ABNB,airbnb,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",131.1699982,129.7799988,130.7400055,-1.06,0.74
+ABNB,airbnb,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",131.1699982,129.7799988,130.7400055,-1.06,0.74
+ABNB,airbnb,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",134.9799957,135.2400055,134.5200043,0.19,-0.53
+ABNB,airbnb,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",140.9799957,141.4199982,142.5800018,0.31,0.82
+ABNB,airbnb,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",141.4199982,142.5800018,134.7700043,0.82,-5.48
+ABNB,airbnb,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",134.7700043,134.3899994,132.1499939,-0.28,-1.67
+ABNB,airbnb,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",125.4400024,126.5500031,119.3799973,0.88,-5.67
+ABNB,airbnb,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",129.8800049,128.6399994,125.6500015,-0.95,-2.32
+ABNB,airbnb,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",121.1800003,122.8000031,113.9700012,1.34,-7.19
+ABNB,airbnb,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",106.6600037,106.3,105.6900024,-0.34,-0.57
+ABNB,airbnb,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",105.6900024,121.3199997,113.9100037,14.79,-6.11
+ABNB,airbnb,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",121.3199997,113.9100037,114.5400009,-6.11,0.55
+ABNB,airbnb,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,113.9100037,114.5400009,113.2200012,0.55,-1.15
+ADBE,adobe,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",437.4500122,438.6000061,440.230011,0.26,0.37
+ADBE,adobe,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",437.4500122,438.6000061,440.230011,0.26,0.37
+ADBE,adobe,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",433.0700073,451.1000061,458.8200073,4.16,1.71
+ADBE,adobe,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",440.7200012,446.0299988,451.2399902,1.2,1.17
+ADBE,adobe,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",446.0299988,451.2399902,444.7799988,1.17,-1.43
+ADBE,adobe,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",444.7799988,449.3999939,435.0799866,1.04,-3.19
+ADBE,adobe,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",433.6600037,438.6000061,377.8399963,1.14,-13.85
+ADBE,adobe,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",403.6400146,397.8099976,396.1499939,-1.44,-0.42
+ADBE,adobe,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",383.2000122,385.7799988,367.25,0.67,-4.8
+ADBE,adobe,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",349.0700073,340.7,340,-2.4,-0.21
+ADBE,adobe,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",340,364.6400146,350.0499878,7.25,-4
+ADBE,adobe,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",364.6400146,350.0499878,352.4700012,-4,0.69
+ADBE,adobe,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,350.0499878,352.4700012,350.9100037,0.69,-0.44
+ADDYY,adidas,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",131.1499939,130.4100037,131.6499939,-0.56,0.95
+ADDYY,adidas,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",131.1499939,130.4100037,131.6499939,-0.56,0.95
+ADDYY,adidas,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",130.4199982,132.8300018,132.3500061,1.85,-0.36
+ADDYY,adidas,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",129.4299927,127.6299973,129.1300049,-1.39,1.18
+ADDYY,adidas,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",127.6299973,129.1300049,129.6900024,1.18,0.43
+ADDYY,adidas,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",129.6900024,129.9600067,122.3899994,0.21,-5.82
+ADDYY,adidas,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",121.6699982,120.2300034,119.2699966,-1.18,-0.8
+ADDYY,adidas,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",120.8799973,118.1100006,119.5800018,-2.29,1.24
+ADDYY,adidas,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",120.5599976,119.8600006,107.9400024,-0.58,-9.94
+ADDYY,adidas,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",106.0599976,101.92,100.3000031,-3.9,-1.59
+ADDYY,adidas,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",100.3000031,113.5100021,110.5100021,13.17,-2.64
+ADDYY,adidas,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",113.5100021,110.5100021,112.3499985,-2.64,1.67
+ADDYY,adidas,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,110.5100021,112.3499985,114.0699997,1.67,1.53
+AEO,american eagle outfitters,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",16.13999939,15.5,15.77999973,-3.97,1.81
+AEO,american eagle outfitters,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",16.13999939,15.5,15.77999973,-3.97,1.81
+AEO,american eagle outfitters,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",15.60000038,14.94999981,14.47999954,-4.17,-3.14
+AEO,american eagle outfitters,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",12.28999996,11.98999977,12.11999989,-2.44,1.08
+AEO,american eagle outfitters,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",11.98999977,12.11999989,12.31000042,1.08,1.57
+AEO,american eagle outfitters,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",12.31000042,12.82999992,12.10000038,4.22,-5.69
+AEO,american eagle outfitters,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",11.48999977,11.44999981,10.97999954,-0.35,-4.1
+AEO,american eagle outfitters,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",12.23999977,11.97999954,11.90999985,-2.12,-0.58
+AEO,american eagle outfitters,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",12.21000004,12.64999962,10.43999958,3.6,-17.47
+AEO,american eagle outfitters,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",10.93999958,10.35,9.649999619,-5.39,-6.76
+AEO,american eagle outfitters,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",9.649999619,11.27000046,10.68000031,16.79,-5.24
+AEO,american eagle outfitters,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",11.27000046,10.68000031,10.64000034,-5.24,-0.37
+AEO,american eagle outfitters,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,10.68000031,10.64000034,10.64999962,-0.37,0.09
+AMD,amd,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",115.9499969,114.2699966,119.5,-1.45,4.58
+AMD,amd,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",115.9499969,114.2699966,119.5,-1.45,4.58
+AMD,amd,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",107.5599976,110.4800034,111.0999985,2.71,0.56
+AMD,amd,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",98.23000336,100.75,101.6699982,2.57,0.91
+AMD,amd,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",100.75,101.6699982,98.84999847,0.91,-2.77
+AMD,amd,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",98.84999847,100.3099976,96.62999725,1.48,-3.67
+AMD,amd,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",96.76000214,100.7900009,98.11000061,4.16,-2.66
+AMD,amd,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",114.8099976,110.1900024,106.6500015,-4.02,-3.21
+AMD,amd,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",102.7799988,102.9599991,93.80000305,0.18,-8.9
+AMD,amd,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",85.76000214,83.64,78.20999908,-2.47,-6.49
+AMD,amd,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",78.20999908,96.83999634,88.69999695,23.82,-8.41
+AMD,amd,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",96.83999634,88.69999695,93.40000153,-8.41,5.3
+AMD,amd,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,88.69999695,93.40000153,94.5,5.3,1.18
+AMZN,amazon,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",237.6799927,237.4199982,242.0599976,-0.11,1.95
+AMZN,amazon,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",237.6799927,237.4199982,242.0599976,-0.11,1.95
+AMZN,amazon,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",229.1499939,233.1399994,232.7599945,1.74,-0.16
+AMZN,amazon,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",205.0200043,203.8000031,208.3600006,-0.6,2.24
+AMZN,amazon,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",203.8000031,208.3600006,200.6999969,2.24,-3.68
+AMZN,amazon,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",200.6999969,199.25,194.5399933,-0.72,-2.36
+AMZN,amazon,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",196.5899963,198.8899994,193.8899994,1.17,-2.51
+AMZN,amazon,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",205.7100067,201.1300049,201.3600006,-2.23,0.11
+AMZN,amazon,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",192.1699982,196.0099945,178.4100037,2,-8.98
+AMZN,amazon,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",171,175.26,170.6600037,2.49,-2.62
+AMZN,amazon,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",170.6600037,191.1000061,181.2200012,11.98,-5.17
+AMZN,amazon,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",191.1000061,181.2200012,184.8699951,-5.17,2.01
+AMZN,amazon,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,181.2200012,184.8699951,182.1199951,2.01,-1.49
+AXP,american express,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",317.4500122,316.5299988,315.8299866,-0.29,-0.22
+AXP,american express,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",317.4500122,316.5299988,315.8299866,-0.29,-0.22
+AXP,american express,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",316.769989,310.2600098,309.5700073,-2.06,-0.22
+AXP,american express,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",295.4899902,283.4700012,284.1799927,-4.07,0.25
+AXP,american express,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",283.4700012,284.1799927,275.6400146,0.25,-3.01
+AXP,american express,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",275.6400146,273.2099915,261.3200073,-0.88,-4.35
+AXP,american express,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",255.3899994,260.75,256.4299927,2.1,-1.66
+AXP,american express,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",279.2799988,276,272.019989,-1.17,-1.44
+AXP,american express,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",270.480011,275.25,247.8200073,1.76,-9.97
+AXP,american express,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",233.6799927,234.28,231.3899994,0.26,-1.23
+AXP,american express,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",231.3899994,262.3599854,246.8899994,13.38,-5.9
+AXP,american express,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",262.3599854,246.8899994,251.1300049,-5.9,1.72
+AXP,american express,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,246.8899994,251.1300049,255.3800049,1.72,1.69
+BAMXF,bmw group,2025-02-01,2025-01-31,2025-02-03,2025-02-05,"25% tax on Canadian and Mexican exports to the US. 10% on China",82.98999786,76.81999969,79.66000366,-7.43,3.7
+BAMXF,bmw group,2025-02-03,2025-01-31,2025-02-03,2025-02-05,"Mexico and Canada reach a deal to pause US tariffs for one month",82.98999786,76.81999969,79.66000366,-7.43,3.7
+BAMXF,bmw group,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",80.84999847,78.5,78,-2.91,-0.64
+BAMXF,bmw group,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",87.37999725,87,91.75,-0.43,5.46
+BAMXF,bmw group,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",87,91.75,92.19000244,5.46,0.48
+BAMXF,bmw group,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",92.19000244,89.76000214,93.44000244,-2.64,4.1
+BAMXF,bmw group,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",93.44000244,90.44999695,87.76000214,-3.2,-2.97
+BAMXF,bmw group,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",84.48999786,84.25,81.83000183,-0.28,-2.87
+BAMXF,bmw group,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",80,80,78,0,-2.5
+BAMXF,bmw group,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",74.15000153,74.51,69.75,0.49,-6.39
+BAMXF,bmw group,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",69.75,77.84999847,72.81999969,11.61,-6.46
+BAMXF,bmw group,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",77.84999847,72.81999969,76.87999725,-6.46,5.58
+BAMXF,bmw group,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,72.81999969,76.87999725,77.69999695,5.58,1.07
+CL,colgate palmolive,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",86.69999695,87.02999878,86.5,0.38,-0.61
+CL,colgate palmolive,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",86.69999695,87.02999878,86.5,0.38,-0.61
+CL,colgate palmolive,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",86.76000214,85.95999908,87.37000275,-0.92,1.64
+CL,colgate palmolive,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",92.80999756,91.05999756,91.75,-1.89,0.76
+CL,colgate palmolive,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",91.05999756,91.75,93.29000092,0.76,1.68
+CL,colgate palmolive,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",93.29000092,96.73999786,97.5,3.7,0.79
+CL,colgate palmolive,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",94.09999847,90.81999969,90.51999664,-3.49,-0.33
+CL,colgate palmolive,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",89.58999634,92.02999878,93.19000244,2.72,1.26
+CL,colgate palmolive,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",93.90000153,93.55000305,96,-0.37,2.62
+CL,colgate palmolive,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",91.66000366,89.19,88.59999847,-2.69,-0.66
+CL,colgate palmolive,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",88.59999847,90.23000336,91.80000305,1.84,1.74
+CL,colgate palmolive,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",90.23000336,91.80000305,94,1.74,2.4
+CL,colgate palmolive,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,91.80000305,94,94.98000336,2.4,1.04
+CMG,chipotle,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",58.34999847,58.36000061,59.02000046,0.02,1.13
+CMG,chipotle,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",58.34999847,58.36000061,59.02000046,0.02,1.13
+CMG,chipotle,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",57.27000046,57.79999924,56.18000031,0.93,-2.8
+CMG,chipotle,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",54.33000183,53.16999817,53.59999847,-2.14,0.81
+CMG,chipotle,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",53.16999817,53.59999847,51.47000122,0.81,-3.97
+CMG,chipotle,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",51.47000122,50.22999954,49.83000183,-2.41,-0.8
+CMG,chipotle,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",49.97999954,50.04999924,48.72999954,0.14,-2.64
+CMG,chipotle,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",49.50999832,50.06999969,50.91999817,1.13,1.7
+CMG,chipotle,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",51.66999817,52.02000046,50.08000183,0.68,-3.73
+CMG,chipotle,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",47.29000092,46.67,45.97999954,-1.31,-1.48
+CMG,chipotle,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",45.97999954,50.93000031,50.27000046,10.77,-1.3
+CMG,chipotle,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",50.93000031,50.27000046,49.75999832,-1.3,-1.01
+CMG,chipotle,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,50.27000046,49.75999832,49.45999908,-1.01,-0.6
+COIN,coinbase,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",291.3299866,284.4100037,280.3900146,-2.38,-1.41
+COIN,coinbase,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",291.3299866,284.4100037,280.3900146,-2.38,-1.41
+COIN,coinbase,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",274.4899902,280.2200012,266.8999939,2.09,-4.75
+COIN,coinbase,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",205.75,212.5500031,222.4499969,3.3,4.66
+COIN,coinbase,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",212.5500031,222.4499969,214.1699982,4.66,-3.72
+COIN,coinbase,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",214.1699982,217.4499969,179.2299957,1.53,-17.58
+COIN,coinbase,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",191.6900024,191.7299957,177.4900055,0.02,-7.43
+COIN,coinbase,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",204.2299957,193.9499969,188.5800018,-5.03,-2.77
+COIN,coinbase,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",174.5200043,182.9499969,170.7599945,4.83,-6.66
+COIN,coinbase,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",160.5500031,157.28,151.4700012,-2.04,-3.69
+COIN,coinbase,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",151.4700012,177.0899963,169.6199951,16.91,-4.22
+COIN,coinbase,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",177.0899963,169.6199951,175.5,-4.22,3.47
+COIN,coinbase,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,169.6199951,175.5,176.5800018,3.47,0.62
+COST,costco,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",979.8800049,1005.830017,1021.859985,2.65,1.59
+COST,costco,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",979.8800049,1005.830017,1021.859985,2.65,1.59
+COST,costco,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",1043.810059,1061.920044,1058.339966,1.73,-0.34
+COST,costco,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",1046.849976,1036.869995,1047.75,-0.95,1.05
+COST,costco,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",1036.869995,1047.75,1026.619995,1.05,-2.02
+COST,costco,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",1026.619995,964.3099976,934.4099731,-6.07,-3.1
+COST,costco,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",930.4899902,927.0800171,890.6199951,-0.37,-3.93
+COST,costco,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",930.2600098,929.75,938.75,-0.05,0.97
+COST,costco,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",954.4000244,965.0800171,967.0800171,1.12,0.21
+COST,costco,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",916.4799805,908.13,908.75,-0.91,0.07
+COST,costco,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",908.75,965.1900024,964.3099976,6.21,-0.09
+COST,costco,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",965.1900024,964.3099976,963.4099731,-0.09,-0.09
+COST,costco,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,964.3099976,963.4099731,979.3200073,-0.09,1.65
+CRM,salesforce / slack,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",341.7000122,339.2399902,344.1400146,-0.72,1.44
+CRM,salesforce / slack,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",341.7000122,339.2399902,344.1400146,-0.72,1.44
+CRM,salesforce / slack,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",325.8299866,327.2000122,324.3999939,0.42,-0.86
+CRM,salesforce / slack,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",293.0599976,287.3399963,291.9700012,-1.95,1.61
+CRM,salesforce / slack,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",287.3399963,291.9700012,286.0499878,1.61,-2.03
+CRM,salesforce / slack,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",286.0499878,282.8900146,272.8999939,-1.1,-3.53
+CRM,salesforce / slack,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",277.0499878,284.5799866,271.7399902,2.72,-4.51
+CRM,salesforce / slack,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",288.6099854,280.9899902,277.8099976,-2.64,-1.13
+CRM,salesforce / slack,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",270.2000122,271.5400085,255.2299957,0.5,-6.01
+CRM,salesforce / slack,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",240.7599945,244.21,243.9900055,1.43,-0.09
+CRM,salesforce / slack,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",243.9900055,265.1700134,255.1199951,8.68,-3.79
+CRM,salesforce / slack,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",265.1700134,255.1199951,255,-3.79,-0.05
+CRM,salesforce / slack,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,255.1199951,255,254.5500031,-0.05,-0.18
+CROX,crocs,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",102.0699997,96.73999786,97.27999878,-5.22,0.56
+CROX,crocs,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",102.0699997,96.73999786,97.27999878,-5.22,0.56
+CROX,crocs,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",93.37000275,90.76000214,88.94999695,-2.8,-1.99
+CROX,crocs,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",100.3799973,100.9800034,103.8499985,0.6,2.84
+CROX,crocs,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",100.9800034,103.8499985,100.8099976,2.84,-2.93
+CROX,crocs,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",100.8099976,99.83999634,101.0999985,-0.96,1.26
+CROX,crocs,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",98.31999969,101.8799973,100,3.62,-1.85
+CROX,crocs,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",112.5899963,109.5100021,110.5899963,-2.74,0.99
+CROX,crocs,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",109.1399994,111.5400009,95.97000122,2.2,-13.96
+CROX,crocs,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",100.6500015,95.83,89.31999969,-4.79,-6.79
+CROX,crocs,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",89.31999969,99.58999634,95.5,11.5,-4.11
+CROX,crocs,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",99.58999634,95.5,92.55999756,-4.11,-3.08
+CROX,crocs,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,95.5,92.55999756,90.80000305,-3.08,-1.9
+CSCO,cisco,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",60.59999847,61.04000092,61.34000015,0.73,0.49
+CSCO,cisco,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",60.59999847,61.04000092,61.34000015,0.73,0.49
+CSCO,cisco,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",62.27000046,62.81000137,62.43000031,0.87,-0.61
+CSCO,cisco,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",63.47999954,63.25999832,63.95999908,-0.35,1.11
+CSCO,cisco,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",63.25999832,63.95999908,63.40999985,1.11,-0.86
+CSCO,cisco,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",63.40999985,63.93999863,62.06000137,0.84,-2.94
+CSCO,cisco,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",60.66999817,60.45999908,59.66999817,-0.35,-1.31
+CSCO,cisco,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",60.99000168,61.79999924,61.40000153,1.33,-0.65
+CSCO,cisco,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",61.79999924,61.81999969,57.31000137,0.03,-7.3
+CSCO,cisco,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",54.54000092,54.41,53.18999863,-0.24,-2.24
+CSCO,cisco,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",53.18999863,58.13000107,56.59000015,9.29,-2.65
+CSCO,cisco,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",58.13000107,56.59000015,57.33000183,-2.65,1.31
+CSCO,cisco,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,56.59000015,57.33000183,57.40999985,1.31,0.14
+DAL,delta air lines,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",67.26999664,66.48000336,69.05999756,-1.17,3.88
+DAL,delta air lines,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",67.26999664,66.48000336,69.05999756,-1.17,3.88
+DAL,delta air lines,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",68.13999939,66.19000244,64.75,-2.86,-2.18
+DAL,delta air lines,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",58.45000076,54.68999863,56.77000046,-6.43,3.8
+DAL,delta air lines,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",54.68999863,56.77000046,54.95999908,3.8,-3.19
+DAL,delta air lines,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",54.95999908,53.27999878,50.33000183,-3.06,-5.54
+DAL,delta air lines,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",46.68000031,45.29999924,43.91999817,-2.96,-3.05
+DAL,delta air lines,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",48.66999817,48.06999969,46.15000153,-1.23,-3.99
+DAL,delta air lines,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",42.41999817,43.36999893,38.70999908,2.24,-10.74
+DAL,delta air lines,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",37.25,37.29,35.88000107,0.11,-3.78
+DAL,delta air lines,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",35.88000107,44.27000046,39.36000061,23.38,-11.09
+DAL,delta air lines,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",44.27000046,39.36000061,40.88000107,-11.09,3.86
+DAL,delta air lines,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,39.36000061,40.88000107,40.29999924,3.86,-1.42
+DIS,the walt disney company,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",113.0599976,114,113.3000031,0.83,-0.61
+DIS,the walt disney company,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",113.0599976,114,113.3000031,0.83,-0.61
+DIS,the walt disney company,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",110.8600006,109.2799988,109.0199966,-1.43,-0.24
+DIS,the walt disney company,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",112.7900009,109.0100021,109.3099976,-3.35,0.28
+DIS,the walt disney company,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",109.0100021,109.3099976,105.4300003,0.28,-3.55
+DIS,the walt disney company,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",105.4300003,105.5100021,103.0800018,0.08,-2.3
+DIS,the walt disney company,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",97.90000153,98.76000214,96.87000275,0.88,-1.91
+DIS,the walt disney company,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",101.6100006,100.7799988,100.4499969,-0.82,-0.33
+DIS,the walt disney company,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",97.68000031,97.87999725,88.83999634,0.2,-9.24
+DIS,the walt disney company,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",83.52999878,83.3,81.72000122,-0.28,-1.9
+DIS,the walt disney company,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",81.72000122,91.44000244,85.23000336,11.89,-6.79
+DIS,the walt disney company,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",91.44000244,85.23000336,84.88999939,-6.79,-0.4
+DIS,the walt disney company,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,85.23000336,84.88999939,84.66000366,-0.4,-0.27
+FDX,fedex,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",264.8699951,247.3399963,250.9499969,-6.62,1.46
+FDX,fedex,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",264.8699951,247.3399963,250.9499969,-6.62,1.46
+FDX,fedex,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",256.0799866,258.230011,261.2600098,0.84,1.17
+FDX,fedex,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",258.769989,247.7400055,250.4100037,-4.26,1.08
+FDX,fedex,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",247.7400055,250.4100037,249.7899933,1.08,-0.25
+FDX,fedex,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",249.7899933,253.9199982,246.5099945,1.65,-2.92
+FDX,fedex,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",242.9600067,243.5099945,240.9799957,0.23,-1.04
+FDX,fedex,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",241.0700073,243.6699982,243.9199982,1.08,0.1
+FDX,fedex,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",241.9799957,245.1699982,215.8600006,1.32,-11.95
+FDX,fedex,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",210.1199951,205.23,198.0700073,-2.33,-3.49
+FDX,fedex,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",198.0700073,217.9400024,206.3999939,10.03,-5.3
+FDX,fedex,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",217.9400024,206.3999939,207.7700043,-5.3,0.66
+FDX,fedex,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,206.3999939,207.7700043,210.4499969,0.66,1.29
+FL,foot locker,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",20.04999924,18.87999916,19.18000031,-5.84,1.59
+FL,foot locker,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",20.04999924,18.87999916,19.18000031,-5.84,1.59
+FL,foot locker,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",18.04000092,19.02000046,19.35000038,5.43,1.74
+FL,foot locker,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",17.87999916,17.37000084,18.26000023,-2.85,5.12
+FL,foot locker,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",17.37000084,18.26000023,17.84000015,5.12,-2.3
+FL,foot locker,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",17.84000015,18.65999985,17.17000008,4.6,-7.98
+FL,foot locker,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",16.21999931,15.64999962,15.55000019,-3.51,-0.64
+FL,foot locker,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",15.68000031,15.31000042,15.27000046,-2.36,-0.26
+FL,foot locker,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",14.15999985,14.72000027,12.44999981,3.95,-15.42
+FL,foot locker,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",12.64000034,12.41,11.46000004,-1.82,-7.66
+FL,foot locker,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",11.46000004,13.64000034,12.38000011,19.02,-9.24
+FL,foot locker,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",13.64000034,12.38000011,11.81000042,-9.24,-4.6
+FL,foot locker,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,12.38000011,11.81000042,11.35999966,-4.6,-3.81
+GOOGL,google,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",204.0200043,201.2299957,206.3800049,-1.37,2.56
+GOOGL,google,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",204.0200043,201.2299957,206.3800049,-1.37,2.56
+GOOGL,google,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",185.3399963,186.4700012,185.3200073,0.61,-0.62
+GOOGL,google,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",167.0099945,170.9199982,173.0200043,2.34,1.23
+GOOGL,google,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",170.9199982,173.0200043,172.3500061,1.23,-0.39
+GOOGL,google,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",172.3500061,173.8600006,165.8699951,0.88,-4.6
+GOOGL,google,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",164.0399933,167.1100006,162.7599945,1.87,-2.6
+GOOGL,google,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",170.5599976,165.0599976,162.2400055,-3.22,-1.71
+GOOGL,google,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",157.0700073,157.0399933,150.7200012,-0.02,-4.02
+GOOGL,google,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",145.6000061,146.75,144.6999969,0.79,-1.4
+GOOGL,google,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",144.6999969,158.7100067,152.8200073,9.68,-3.71
+GOOGL,google,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",158.7100067,152.8200073,157.1399994,-3.71,2.83
+GOOGL,google,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,152.8200073,157.1399994,159.0700073,2.83,1.23
+HD,the home depot,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",411.980011,408.7600098,411.4899902,-0.78,0.67
+HD,the home depot,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",411.980011,408.7600098,411.4899902,-0.78,0.67
+HD,the home depot,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",407.3699951,413.9899902,416.3599854,1.63,0.57
+HD,the home depot,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",389.6900024,381.6799927,386.3500061,-2.06,1.22
+HD,the home depot,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",381.6799927,386.3500061,381.730011,1.22,-1.2
+HD,the home depot,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",381.730011,376.7999878,374.6499939,-1.29,-0.57
+HD,the home depot,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",368.1600037,364.730011,347.25,-0.93,-4.79
+HD,the home depot,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",360.9899902,362.1300049,362.730011,0.32,0.17
+HD,the home depot,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",365.519989,370.8900146,355.9100037,1.47,-4.04
+HD,the home depot,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",353.8999939,341.51,335.2399902,-3.5,-1.84
+HD,the home depot,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",335.2399902,355.3900146,353.6199951,6.01,-0.5
+HD,the home depot,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",355.3900146,353.6199951,353.8599854,-0.5,0.07
+HD,the home depot,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,353.6199951,353.8599854,357.2000122,0.07,0.94
+HLT,hilton,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",256.0700073,256.269989,258.7399902,0.08,0.96
+HLT,hilton,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",256.0700073,256.269989,258.7399902,0.08,0.96
+HLT,hilton,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",269.6900024,267.480011,269.1199951,-0.82,0.61
+HLT,hilton,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",263.5799866,259.5599976,259.4899902,-1.53,-0.03
+HLT,hilton,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",259.5599976,259.4899902,251.1199951,-0.03,-3.23
+HLT,hilton,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",251.1199951,247.1399994,238.8999939,-1.58,-3.33
+HLT,hilton,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",231.8300018,228.3999939,221.7799988,-1.48,-2.9
+HLT,hilton,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",234.6699982,234.8600006,232.0500031,0.08,-1.2
+HLT,hilton,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",227.2799988,231.3800049,217.3800049,1.8,-6.05
+HLT,hilton,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",208.8500061,204.14,201.2799988,-2.26,-1.4
+HLT,hilton,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",201.2799988,218.6499939,209.9199982,8.63,-3.99
+HLT,hilton,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",218.6499939,209.9199982,212.4100037,-3.99,1.19
+HLT,hilton,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,209.9199982,212.4100037,210.1300049,1.19,-1.07
+HMC,honda,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",28.34000015,26.89999962,27.54000092,-5.08,2.38
+HMC,honda,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",28.34000015,26.89999962,27.54000092,-5.08,2.38
+HMC,honda,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",27.87000084,28,27.94000053,0.47,-0.21
+HMC,honda,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",27.5,27.32999992,28.79999924,-0.62,5.38
+HMC,honda,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",27.32999992,28.79999924,28.79999924,5.38,0
+HMC,honda,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",28.79999924,29.19000053,28.93000031,1.35,-0.89
+HMC,honda,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",28.94000053,29.01000023,28.82999992,0.24,-0.62
+HMC,honda,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",30.12999916,29.56999969,28.77000046,-1.86,-2.71
+HMC,honda,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",26.79999924,27.30999947,26.34000015,1.9,-3.55
+HMC,honda,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",25,25.34,25.21999931,1.36,-0.47
+HMC,honda,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",25.21999931,27.62000084,26.61000061,9.52,-3.66
+HMC,honda,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",27.62000084,26.61000061,27.62000084,-3.66,3.8
+HMC,honda,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,26.61000061,27.62000084,28.14999962,3.8,1.92
+HSY,hershey company,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",149.25,147.7899933,144.7400055,-0.98,-2.06
+HSY,hershey company,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",149.25,147.7899933,144.7400055,-0.98,-2.06
+HSY,hershey company,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",154.9299927,154.4700012,158.2599945,-0.3,2.45
+HSY,hershey company,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",178.5,176.3800049,177.0299988,-1.19,0.37
+HSY,hershey company,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",176.3800049,177.0299988,180.0099945,0.37,1.68
+HSY,hershey company,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",180.0099945,185.0599976,186.3600006,2.81,0.7
+HSY,hershey company,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",179.5399933,170.9400024,171.9400024,-4.79,0.59
+HSY,hershey company,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",165.2299957,168.5200043,170.6199951,1.99,1.25
+HSY,hershey company,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",169.6199951,163.9499969,166.8300018,-3.34,1.76
+HSY,hershey company,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",162.2400055,162.6,159.1000061,0.22,-2.15
+HSY,hershey company,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",159.1000061,164.1600037,164.0899963,3.18,-0.04
+HSY,hershey company,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",164.1600037,164.0899963,165.6499939,-0.04,0.95
+HSY,hershey company,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,164.0899963,165.6499939,170.3000031,0.95,2.81
+JNJ,johnson & johnson,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",152.1499939,151.8699951,153.4900055,-0.18,1.07
+JNJ,johnson & johnson,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",152.1499939,151.8699951,153.4900055,-0.18,1.07
+JNJ,johnson & johnson,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",153.1199951,154.2400055,156.1300049,0.73,1.23
+JNJ,johnson & johnson,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",167.2799988,165.4199982,165.1199951,-1.11,-0.18
+JNJ,johnson & johnson,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",165.4199982,165.1199951,165.8300018,-0.18,0.43
+JNJ,johnson & johnson,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",165.8300018,166.6900024,167.6999969,0.52,0.61
+JNJ,johnson & johnson,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",165.8600006,162.8500061,162.9900055,-1.81,0.09
+JNJ,johnson & johnson,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",161.0200043,161.7200012,163.1300049,0.43,0.87
+JNJ,johnson & johnson,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",153.25,155.3600006,159.8200073,1.38,2.87
+JNJ,johnson & johnson,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",153.2400055,150.62,150,-1.71,-0.41
+JNJ,johnson & johnson,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",150,150.9700012,148.6900024,0.65,-1.51
+JNJ,johnson & johnson,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",150.9700012,148.6900024,151.7299957,-1.51,2.04
+JNJ,johnson & johnson,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,148.6900024,151.7299957,154.3600006,2.04,1.73
+JPM,jpmorgan chase & co,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",267.2999878,266.8099976,267.9400024,-0.18,0.42
+JPM,jpmorgan chase & co,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",267.2999878,266.8099976,267.9400024,-0.18,0.42
+JPM,jpmorgan chase & co,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",275.7999878,271.0400085,274.9899902,-1.73,1.46
+JPM,jpmorgan chase & co,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",260.6199951,250.25,251.5299988,-3.98,0.51
+JPM,jpmorgan chase & co,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",250.25,251.5299988,246.5399933,0.51,-1.98
+JPM,jpmorgan chase & co,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",246.5399933,242.2799988,232.2200012,-1.73,-4.15
+JPM,jpmorgan chase & co,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",229.1399994,227.8999939,225.1900024,-0.54,-1.19
+JPM,jpmorgan chase & co,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",251.1300049,251.0299988,248.1199951,-0.04,-1.16
+JPM,jpmorgan chase & co,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",243.6600037,245.8200073,228.6900024,0.89,-6.97
+JPM,jpmorgan chase & co,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",210.2799988,214.44,216.8699951,1.98,1.13
+JPM,jpmorgan chase & co,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",216.8699951,234.3399963,227.1100006,8.06,-3.09
+JPM,jpmorgan chase & co,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",234.3399963,227.1100006,236.1999969,-3.09,4
+JPM,jpmorgan chase & co,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,227.1100006,236.1999969,234.7200012,4,-0.63
+JWN,nordstrom,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",24.20000076,24.15999985,24.26000023,-0.17,0.41
+JWN,nordstrom,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",24.20000076,24.15999985,24.26000023,-0.17,0.41
+JWN,nordstrom,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",24.25,24.29999924,24.30999947,0.21,0.04
+JWN,nordstrom,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",24.23999977,24.26000023,24.36000061,0.08,0.41
+JWN,nordstrom,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",24.26000023,24.36000061,24.38999939,0.41,0.12
+JWN,nordstrom,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",24.38999939,24.45000076,24.42000008,0.25,-0.12
+JWN,nordstrom,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",24.22999954,24.20000076,24.21999931,-0.12,0.08
+JWN,nordstrom,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",24.37000084,24.43000031,24.45000076,0.25,0.08
+JWN,nordstrom,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",24.45999908,24.45000076,23.95999908,-0.04,-2
+JWN,nordstrom,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",23.34000015,23.35,23.11000061,0.04,-1.03
+JWN,nordstrom,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",23.11000061,23.80999947,23.82999992,3.03,0.08
+JWN,nordstrom,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",23.80999947,23.82999992,23.78000069,0.08,-0.21
+JWN,nordstrom,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,23.82999992,23.78000069,24.04000092,-0.21,1.09
+KO,the coca-cola company,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",63.47999954,63.34999847,62.66999817,-0.2,-1.07
+KO,the coca-cola company,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",63.47999954,63.34999847,62.66999817,-0.2,-1.07
+KO,the coca-cola company,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",63.84000015,64.55000305,67.59999847,1.11,4.73
+KO,the coca-cola company,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",72.31999969,70.19000244,70.08000183,-2.95,-0.16
+KO,the coca-cola company,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",70.19000244,70.08000183,70.45999908,-0.16,0.54
+KO,the coca-cola company,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",70.45999908,71.43000031,71.44999695,1.38,0.03
+KO,the coca-cola company,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",71.04000092,69.94000244,69.62000275,-1.55,-0.46
+KO,the coca-cola company,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",68.80999756,70.01999664,70.73999786,1.76,1.03
+KO,the coca-cola company,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",71.87000275,71.33000183,73.18000031,-0.75,2.59
+KO,the coca-cola company,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",69.93000031,68.37,68.41999817,-2.23,0.07
+KO,the coca-cola company,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",68.41999817,69.94999695,70.76000214,2.24,1.16
+KO,the coca-cola company,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",69.94999695,70.76000214,71.43000031,1.16,0.95
+KO,the coca-cola company,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,70.76000214,71.43000031,72.44999695,0.95,1.43
+LOGI,logitech,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",97.41999817,96.44999695,98.55999756,-1,2.19
+LOGI,logitech,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",97.41999817,96.44999695,98.55999756,-1,2.19
+LOGI,logitech,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",98.62999725,100.5299988,99.84999847,1.93,-0.68
+LOGI,logitech,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",97.54000092,95.73999786,97.69000244,-1.85,2.04
+LOGI,logitech,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",95.73999786,97.69000244,96.5,2.04,-1.22
+LOGI,logitech,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",96.5,97.66999817,94.06999969,1.21,-3.69
+LOGI,logitech,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",92.19000244,90.44000244,88.98000336,-1.9,-1.61
+LOGI,logitech,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",92.44999695,91.01999664,88.59999847,-1.55,-2.66
+LOGI,logitech,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",85.01999664,85.66999817,71.41000366,0.76,-16.65
+LOGI,logitech,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",69.30000305,68.17,65.56999969,-1.63,-3.81
+LOGI,logitech,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",65.56999969,74.19999695,70.37000275,13.16,-5.16
+LOGI,logitech,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",74.19999695,70.37000275,71.66999817,-5.16,1.85
+LOGI,logitech,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,70.37000275,71.66999817,73.47000122,1.85,2.51
+LUV,southwest airlines,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",30.70999908,30.47999954,30.79000092,-0.75,1.02
+LUV,southwest airlines,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",30.70999908,30.47999954,30.79000092,-0.75,1.02
+LUV,southwest airlines,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",31,30.12999916,29.77000046,-2.81,-1.19
+LUV,southwest airlines,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",30.61000061,29.45000076,29.95000076,-3.79,1.7
+LUV,southwest airlines,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",29.45000076,29.95000076,29.53000069,1.7,-1.4
+LUV,southwest airlines,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",29.53000069,29.20000076,28.18000031,-1.12,-3.49
+LUV,southwest airlines,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",30.53000069,30.10000038,31,-1.41,2.99
+LUV,southwest airlines,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",34.66999817,34.38999939,33.93000031,-0.81,-1.34
+LUV,southwest airlines,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",31.59000015,31.86000061,28.86000061,0.85,-9.42
+LUV,southwest airlines,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",25.87000084,25.96,24.75,0.35,-4.66
+LUV,southwest airlines,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",24.75,28.54999924,25.79000092,15.35,-9.67
+LUV,southwest airlines,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",28.54999924,25.79000092,26.19000053,-9.67,1.55
+LUV,southwest airlines,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,25.79000092,26.19000053,25.55999947,1.55,-2.41
+LVMUY,lvmh,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",145.6600037,141.6900024,144.8999939,-2.73,2.27
+LVMUY,lvmh,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",145.6600037,141.6900024,144.8999939,-2.73,2.27
+LVMUY,lvmh,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",140.6300049,141.6199951,142.6999969,0.7,0.76
+LVMUY,lvmh,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",143.4400024,142.9900055,145.1000061,-0.31,1.48
+LVMUY,lvmh,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",142.9900055,145.1000061,139.6499939,1.48,-3.76
+LVMUY,lvmh,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",139.6499939,138.5599976,135.7799988,-0.78,-2.01
+LVMUY,lvmh,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",136.8399963,133.4900055,129.7599945,-2.45,-2.79
+LVMUY,lvmh,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",129.1199951,126.8199997,126.9199982,-1.78,0.08
+LVMUY,lvmh,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",123.8199997,124.6999969,120.3399963,0.71,-3.5
+LVMUY,lvmh,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",114.6999969,111.17,106.8199997,-3.08,-3.91
+LVMUY,lvmh,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",106.8199997,117.8199997,118.0599976,10.3,0.2
+LVMUY,lvmh,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",117.8199997,118.0599976,121.25,0.2,2.7
+LVMUY,lvmh,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,118.0599976,121.25,113.7099991,2.7,-6.22
+MA,mastercard,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",555.4299927,563.9500122,559.1099854,1.53,-0.86
+MA,mastercard,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",555.4299927,563.9500122,559.1099854,1.53,-0.86
+MA,mastercard,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",562.75,565.4899902,564.7000122,0.49,-0.14
+MA,mastercard,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",574.9199829,555.0700073,558.2999878,-3.45,0.58
+MA,mastercard,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",555.0700073,558.2999878,549.8200073,0.58,-1.52
+MA,mastercard,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",549.8200073,546.7700195,537.1199951,-0.55,-1.76
+MA,mastercard,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",525.7999878,524.6400146,519.8300171,-0.22,-0.92
+MA,mastercard,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",545.1599731,549.0700073,557.5700073,0.72,1.55
+MA,mastercard,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",548.5100098,547.3800049,530.5499878,-0.21,-3.07
+MA,mastercard,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",489.769989,485.52,479.9200134,-0.87,-1.15
+MA,mastercard,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",479.9200134,515.4299927,499.3399963,7.4,-3.12
+MA,mastercard,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",515.4299927,499.3399963,509.75,-3.12,2.08
+MA,mastercard,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,499.3399963,509.75,512.460022,2.08,0.53
+MAR,marriott,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",290.5899963,290.4599915,290.75,-0.04,0.1
+MAR,marriott,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",290.5899963,290.4599915,290.75,-0.04,0.1
+MAR,marriott,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",303.9700012,304.4500122,288,0.16,-5.4
+MAR,marriott,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",277.7200012,270.7999878,271.1000061,-2.49,0.11
+MAR,marriott,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",270.7999878,271.1000061,262.6300049,0.11,-3.12
+MAR,marriott,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",262.6300049,262.75,257.2200012,0.05,-2.1
+MAR,marriott,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",246.3099976,243.8099976,237.2899933,-1.01,-2.67
+MAR,marriott,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",246.4799957,246.7200012,244.4499969,0.1,-0.92
+MAR,marriott,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",238.2400055,242.5599976,224.6199951,1.81,-7.4
+MAR,marriott,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",214.5800018,213.36,211.1199951,-0.57,-1.05
+MAR,marriott,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",211.1199951,233.3899994,222.9199982,10.55,-4.49
+MAR,marriott,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",233.3899994,222.9199982,225.2200012,-4.49,1.03
+MAR,marriott,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,222.9199982,225.2200012,223.4900055,1.03,-0.77
+MCD,mcdonald's,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",288.7000122,290.0499878,289.769989,0.47,-0.1
+MCD,mcdonald's,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",288.7000122,290.0499878,289.769989,0.47,-0.1
+MCD,mcdonald's,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",294.2999878,308.4200134,310.2099915,4.8,0.58
+MCD,mcdonald's,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",304.2900085,305.769989,307.4500122,0.49,0.55
+MCD,mcdonald's,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",305.769989,307.4500122,310.3699951,0.55,0.95
+MCD,mcdonald's,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",310.3699951,321.2900085,317.25,3.52,-1.26
+MCD,mcdonald's,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",306.7600098,299.3999939,297.5,-2.4,-0.63
+MCD,mcdonald's,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",306.9200134,313.5799866,312.6900024,2.17,-0.28
+MCD,mcdonald's,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",313.6300049,311.5799866,318.269989,-0.65,2.15
+MCD,mcdonald's,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",300.1099854,282.5,299.8299866,-5.87,6.13
+MCD,mcdonald's,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",299.8299866,303.9599915,306.7799988,1.38,0.93
+MCD,mcdonald's,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",303.9599915,306.7799988,309.8999939,0.93,1.02
+MCD,mcdonald's,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,306.7799988,309.8999939,316.0700073,1.02,1.99
+MMM,3m,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",152.1999969,150.0399933,151.6799927,-1.42,1.09
+MMM,3m,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",152.1999969,150.0399933,151.6799927,-1.42,1.09
+MMM,3m,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",149.8699951,149.6900024,150.0700073,-0.12,0.25
+MMM,3m,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",153.4199982,145.8600006,147.6100006,-4.93,1.2
+MMM,3m,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",145.8600006,147.6100006,146.9400024,1.2,-0.45
+MMM,3m,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",146.9400024,146.3000031,147.6199951,-0.44,0.9
+MMM,3m,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",147.5399933,150.2400055,146.1000061,1.83,-2.76
+MMM,3m,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",153.5,152.6799927,148.4400024,-0.53,-2.78
+MMM,3m,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",147.6699982,147.7599945,139.7400055,0.06,-5.43
+MMM,3m,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",126.9100037,128.55,127.1600037,1.29,-1.08
+MMM,3m,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",127.1600037,138.3200073,132.9700012,8.78,-3.87
+MMM,3m,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",138.3200073,132.9700012,135.9499969,-3.87,2.24
+MMM,3m,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,132.9700012,135.9499969,136.0099945,2.24,0.04
+MSFT,microsoft,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",415.0599976,410.9200134,412.3699951,-1,0.35
+MSFT,microsoft,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",415.0599976,410.9200134,412.3699951,-1,0.35
+MSFT,microsoft,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",409.75,412.2200012,411.4400024,0.6,-0.19
+MSFT,microsoft,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",388.4899902,388.6099854,401.019989,0.03,3.19
+MSFT,microsoft,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",388.6099854,401.019989,396.8900146,3.19,-1.03
+MSFT,microsoft,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",396.8900146,393.3099976,380.1600037,-0.9,-3.34
+MSFT,microsoft,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",380.4500122,383.269989,378.769989,0.74,-1.17
+MSFT,microsoft,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",395.1600037,389.9700012,390.5799866,-1.31,0.16
+MSFT,microsoft,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",382.1900024,382.1400146,373.1099854,-0.01,-2.36
+MSFT,microsoft,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",359.8399963,357.86,354.5599976,-0.55,-0.92
+MSFT,microsoft,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",354.5599976,390.4899902,381.3500061,10.13,-2.34
+MSFT,microsoft,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",390.4899902,381.3500061,388.4500122,-2.34,1.86
+MSFT,microsoft,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,381.3500061,388.4500122,387.8099976,1.86,-0.16
+NFLX,netflix,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",976.7600098,978.9400024,994.8699951,0.22,1.63
+NFLX,netflix,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",976.7600098,978.9400024,994.8699951,0.22,1.63
+NFLX,netflix,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",1013.929993,1027.599976,1008.080017,1.35,-1.9
+NFLX,netflix,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",973.7000122,972.5800171,990.9199829,-0.12,1.89
+NFLX,netflix,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",972.5800171,990.9199829,906.3599854,1.89,-8.53
+NFLX,netflix,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",906.3599854,891.1099854,866.6799927,-1.68,-2.74
+NFLX,netflix,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",895.0999756,919.6799927,890.1699829,2.75,-3.21
+NFLX,netflix,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",997.2800293,970.6500244,976.7199707,-2.67,0.63
+NFLX,netflix,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",928.3800049,935.5200195,917.0499878,0.77,-1.97
+NFLX,netflix,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",855.8599854,867.83,870.4000244,1.4,0.3
+NFLX,netflix,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",870.4000244,945.4699707,921.1699829,8.62,-2.57
+NFLX,netflix,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",945.4699707,921.1699829,918.289978,-2.57,-0.31
+NFLX,netflix,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,921.1699829,918.289978,931.2800293,-0.31,1.41
+NKE,nike,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",76.90000153,76.58999634,76.72000122,-0.4,0.17
+NKE,nike,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",76.90000153,76.58999634,76.72000122,-0.4,0.17
+NKE,nike,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",68.68000031,70.94000244,71.33999634,3.29,0.56
+NKE,nike,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",78.41000366,77.31999969,77.80999756,-1.39,0.63
+NKE,nike,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",77.31999969,77.80999756,77.70999908,0.63,-0.13
+NKE,nike,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",77.70999908,78.58999634,76.40000153,1.13,-2.79
+NKE,nike,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",74.16999817,73.58000183,72.63999939,-0.8,-1.28
+NKE,nike,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",66.54000092,65.73999786,65.80000305,-1.2,0.09
+NKE,nike,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",64.76000214,64.95999908,55.58000183,0.31,-14.44
+NKE,nike,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",57.25,55.61,53.27000046,-2.86,-4.21
+NKE,nike,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",53.27000046,59.31999969,54.40000153,11.36,-8.29
+NKE,nike,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",59.31999969,54.40000153,54.38999939,-8.29,-0.02
+NKE,nike,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,54.40000153,54.38999939,55.40999985,-0.02,1.88
+NTDOY,nintendo,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",16.35000038,16.5,16.45999908,0.92,-0.24
+NTDOY,nintendo,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",16.35000038,16.5,16.45999908,0.92,-0.24
+NTDOY,nintendo,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",17.54999924,17.97999954,17.86000061,2.45,-0.67
+NTDOY,nintendo,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",18.38999939,18.39999962,18.81999969,0.05,2.28
+NTDOY,nintendo,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",18.39999962,18.81999969,18.72999954,2.28,-0.48
+NTDOY,nintendo,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",18.72999954,17.63999939,16.67000008,-5.82,-5.5
+NTDOY,nintendo,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",17.02000046,17.14999962,17.14999962,0.76,0
+NTDOY,nintendo,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",18.02000046,18.56999969,18.25,3.05,-1.72
+NTDOY,nintendo,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",17.13999939,17.36000061,16.70999908,1.28,-3.74
+NTDOY,nintendo,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",15.89000034,16.12,16.43000031,1.45,1.92
+NTDOY,nintendo,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",16.43000031,17.47999954,17.13999939,6.39,-1.95
+NTDOY,nintendo,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",17.47999954,17.13999939,17.45000076,-1.95,1.81
+NTDOY,nintendo,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,17.13999939,17.45000076,18.21999931,1.81,4.41
+NVDA,nvidia,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",120.0699997,116.6600037,118.6500015,-2.84,1.71
+NVDA,nvidia,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",120.0699997,116.6600037,118.6500015,-2.84,1.71
+NVDA,nvidia,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",129.8399963,133.5700073,132.8000031,2.87,-0.58
+NVDA,nvidia,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",114.0599976,115.9899979,117.3000031,1.69,1.13
+NVDA,nvidia,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",115.9899979,117.3000031,110.5699997,1.13,-5.74
+NVDA,nvidia,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",110.5699997,112.6900024,106.9800034,1.92,-5.07
+NVDA,nvidia,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",108.7600021,115.7399979,115.5800018,6.42,-0.14
+NVDA,nvidia,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",120.6900024,113.7600021,111.4300003,-5.74,-2.05
+NVDA,nvidia,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",110.1500015,110.4199982,101.8000031,0.25,-7.81
+NVDA,nvidia,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",94.30999756,97.64,96.30000305,3.53,-1.37
+NVDA,nvidia,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",96.30000305,114.3300018,107.5699997,18.72,-5.91
+NVDA,nvidia,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",114.3300018,107.5699997,110.9300003,-5.91,3.12
+NVDA,nvidia,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,107.5699997,110.9300003,110.7099991,3.12,-0.2
+PG,procter & gamble,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",165.9900055,168.7599945,168.1300049,1.67,-0.37
+PG,procter & gamble,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",165.9900055,168.7599945,168.1300049,1.67,-0.37
+PG,procter & gamble,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",167.9700012,167.5299988,169.4299927,-0.26,1.13
+PG,procter & gamble,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",175.5899963,173.1799927,174.6100006,-1.37,0.83
+PG,procter & gamble,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",173.1799927,174.6100006,174.6600037,0.83,0.03
+PG,procter & gamble,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",174.6600037,175.9499969,176.2599945,0.74,0.18
+PG,procter & gamble,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",173.1199951,168.3699951,168.5899963,-2.74,0.13
+PG,procter & gamble,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",162.8500061,166.5800018,168.7100067,2.29,1.28
+PG,procter & gamble,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",170.5599976,169.5,172.3899994,-0.62,1.71
+PG,procter & gamble,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",163.75,160.23,158.3899994,-2.15,-1.15
+PG,procter & gamble,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",158.3899994,162.3200073,163.5599976,2.48,0.76
+PG,procter & gamble,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",162.3200073,163.5599976,166.9100037,0.76,2.05
+PG,procter & gamble,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,163.5599976,166.9100037,169.1300049,2.05,1.33
+PHG,philips,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",27.57999992,26.79000092,26.90999985,-2.86,0.45
+PHG,philips,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",27.57999992,26.79000092,26.90999985,-2.86,0.45
+PHG,philips,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",27.28000069,27.59000015,27.95999908,1.14,1.34
+PHG,philips,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",26.36000061,26.54999924,27.13999939,0.72,2.22
+PHG,philips,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",26.54999924,27.13999939,27.06999969,2.22,-0.26
+PHG,philips,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",27.06999969,27.55999947,26.76000023,1.81,-2.9
+PHG,philips,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",26.73999977,26.64999962,26.11000061,-0.34,-2.03
+PHG,philips,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",25.46999931,25.13999939,25.69000053,-1.3,2.19
+PHG,philips,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",25.22999954,24.84000015,23.86000061,-1.55,-3.95
+PHG,philips,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",22.07999992,21.77,21.67000008,-1.4,-0.46
+PHG,philips,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",21.67000008,23.77000046,22.61000061,9.69,-4.88
+PHG,philips,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",23.77000046,22.61000061,23.40999985,-4.88,3.54
+PHG,philips,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,22.61000061,23.40999985,23.79000092,3.54,1.62
+PINS,pinterest,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",32.95999908,33.08000183,33.38999939,0.36,0.94
+PINS,pinterest,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",32.95999908,33.08000183,33.38999939,0.36,0.94
+PINS,pinterest,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",40,39.63999939,39.56999969,-0.9,-0.18
+PINS,pinterest,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",35.56999969,35.20000076,36.20000076,-1.04,2.84
+PINS,pinterest,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",35.20000076,36.20000076,34.50999832,2.84,-4.67
+PINS,pinterest,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",34.50999832,34.29999924,31.75,-0.61,-7.43
+PINS,pinterest,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",31.38999939,33.27999878,31.12999916,6.02,-6.46
+PINS,pinterest,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",34.63000107,32.90999985,32.24000168,-4.97,-2.04
+PINS,pinterest,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",31,31.37999916,27.51000023,1.23,-12.33
+PINS,pinterest,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",25.78000069,25.4,24.68000031,-1.47,-2.83
+PINS,pinterest,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",24.68000031,28.13999939,26.22999954,14.02,-6.79
+PINS,pinterest,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",28.13999939,26.22999954,26.37000084,-6.79,0.53
+PINS,pinterest,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,26.22999954,26.37000084,25.85000038,0.53,-1.97
+PMMAF,puma,2025-02-01,2025-01-31,2025-02-03,2025-02-05,"25% tax on Canadian and Mexican exports to the US. 10% on China",31.85000038,30.40999985,30.36000061,-4.52,-0.16
+PMMAF,puma,2025-02-03,2025-01-31,2025-02-03,2025-02-05,"Mexico and Canada reach a deal to pause US tariffs for one month",31.85000038,30.40999985,30.36000061,-4.52,-0.16
+PMMAF,puma,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",30.36000061,29.95999908,29.37000084,-1.32,-1.97
+PMMAF,puma,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",29.79999924,29.15999985,31.3939991,-2.15,7.66
+PMMAF,puma,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",29.15999985,31.3939991,31.29999924,7.66,-0.3
+PMMAF,puma,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",31.29999924,31.78000069,31.36000061,1.53,-1.32
+PMMAF,puma,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",31.32900047,23.88999939,23.56200027,-23.74,-1.37
+PMMAF,puma,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",25.47999954,25.02000046,26.23399925,-1.81,4.85
+PMMAF,puma,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",25.37800026,25.37800026,23,0,-9.37
+PMMAF,puma,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",22.125,21.41,21.77000046,-3.23,1.68
+PMMAF,puma,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",21.77000046,20.80500031,21.57500076,-4.43,3.7
+PMMAF,puma,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",20.80500031,21.57500076,21.49500084,3.7,-0.37
+PMMAF,puma,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,21.57500076,21.49500084,22.69400024,-0.37,5.58
+POAHY,porsche,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",3.890000105,3.809999943,3.839999914,-2.06,0.79
+POAHY,porsche,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",3.890000105,3.809999943,3.839999914,-2.06,0.79
+POAHY,porsche,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",3.720000029,3.75,3.720000029,0.81,-0.8
+POAHY,porsche,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",3.970000029,3.980000019,4.059999943,0.25,2.01
+POAHY,porsche,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",3.980000019,4.059999943,4.130000114,2.01,1.72
+POAHY,porsche,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",4.130000114,4.190000057,4.199999809,1.45,0.24
+POAHY,porsche,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",4.199999809,4.150000095,4.079999924,-1.19,-1.69
+POAHY,porsche,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",4.03000021,3.960000038,3.880000114,-1.74,-2.02
+POAHY,porsche,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",3.660000086,3.680000067,3.609999895,0.55,-1.9
+POAHY,porsche,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",3.470000029,3.48,3.349999905,0.29,-3.74
+POAHY,porsche,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",3.349999905,3.720000029,3.49000001,11.04,-6.18
+POAHY,porsche,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",3.720000029,3.49000001,3.710000038,-6.18,6.3
+POAHY,porsche,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,3.49000001,3.710000038,3.730000019,6.3,0.54
+PTON,peloton,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",7.75,7.320000172,7.309999943,-5.55,-0.14
+PTON,peloton,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",7.75,7.320000172,7.309999943,-5.55,-0.14
+PTON,peloton,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",8.369999886,8.569999695,8.739999771,2.39,1.98
+PTON,peloton,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",7.03000021,6.949999809,6.889999866,-1.14,-0.86
+PTON,peloton,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",6.949999809,6.889999866,6.329999924,-0.86,-8.13
+PTON,peloton,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",6.329999924,6.210000038,5.619999886,-1.9,-9.5
+PTON,peloton,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",5.739999771,6.099999905,6.070000172,6.27,-0.49
+PTON,peloton,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",7.289999962,6.949999809,6.769999981,-4.66,-2.59
+PTON,peloton,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",6.21999979,6.309999943,5.400000095,1.45,-14.42
+PTON,peloton,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",5.03000021,5.15,5,2.39,-2.91
+PTON,peloton,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",5,5.869999886,5.5,17.4,-6.3
+PTON,peloton,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",5.869999886,5.5,5.579999924,-6.3,1.45
+PTON,peloton,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,5.5,5.579999924,5.699999809,1.45,2.15
+RBLX,roblox,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",71.06999969,70.68000031,73.79000092,-0.55,4.4
+RBLX,roblox,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",71.06999969,70.68000031,73.79000092,-0.55,4.4
+RBLX,roblox,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",66.27999878,65.05000305,66.05000305,-1.86,1.54
+RBLX,roblox,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",62.18000031,62.65999985,63.31000137,0.77,1.04
+RBLX,roblox,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",62.65999985,63.31000137,58.56999969,1.04,-7.49
+RBLX,roblox,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",58.56999969,57.16999817,53.77000046,-2.39,-5.95
+RBLX,roblox,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",54.75,56.86000061,55.72999954,3.85,-1.99
+RBLX,roblox,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",62.00999832,60.36000061,59.5,-2.66,-1.42
+RBLX,roblox,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",60.99000168,61.61000061,58.22000122,1.02,-5.5
+RBLX,roblox,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",52.95999908,52.53,51.22000122,-0.81,-2.49
+RBLX,roblox,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",51.22000122,57.31000137,56.11999893,11.89,-2.08
+RBLX,roblox,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",57.31000137,56.11999893,57.25999832,-2.08,2.03
+RBLX,roblox,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,56.11999893,57.25999832,56.90999985,2.03,-0.61
+SBUX,starbucks,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",107.6800003,108.1600037,110.5999985,0.45,2.26
+SBUX,starbucks,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",107.6800003,108.1600037,110.5999985,0.45,2.26
+SBUX,starbucks,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",112.1999969,111.4499969,111.0299988,-0.67,-0.38
+SBUX,starbucks,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",115.4100037,112.0599976,111.6900024,-2.9,-0.33
+SBUX,starbucks,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",112.0599976,111.6900024,105.4700012,-0.33,-5.57
+SBUX,starbucks,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",105.4700012,106.4800034,101.1299973,0.96,-5.02
+SBUX,starbucks,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",99.58000183,98.69000244,96.04000092,-0.89,-2.69
+SBUX,starbucks,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",95.87999725,97.97000122,98.84999847,2.18,0.9
+SBUX,starbucks,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",98.23000336,99.41000366,88.26000214,1.2,-11.22
+SBUX,starbucks,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",82.09999847,80,79.69000244,-2.56,-0.39
+SBUX,starbucks,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",79.69000244,88.68000031,84.59999847,11.28,-4.6
+SBUX,starbucks,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",88.68000031,84.59999847,85.43000031,-4.6,0.98
+SBUX,starbucks,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,84.59999847,85.43000031,85.48999786,0.98,0.07
+SHOP,shopify,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",116.8000031,114.3899994,119.1999969,-2.06,4.2
+SHOP,shopify,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",116.8000031,114.3899994,119.1999969,-2.06,4.2
+SHOP,shopify,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",117.4100037,119.9000015,123.5899963,2.12,3.08
+SHOP,shopify,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",106.5800018,101.7300034,106.1500015,-4.55,4.34
+SHOP,shopify,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",101.7300034,106.1500015,102.4899979,4.34,-3.45
+SHOP,shopify,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",102.4899979,100.1299973,92.75,-2.3,-7.37
+SHOP,shopify,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",92.94999695,96.52999878,90.58999634,3.85,-6.15
+SHOP,shopify,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",109.8199997,104.2799988,102.5199966,-5.04,-1.69
+SHOP,shopify,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",97.63999939,100.6500015,82.29000092,3.08,-18.24
+SHOP,shopify,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",76.88999939,78.82,77.08999634,2.51,-2.19
+SHOP,shopify,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",77.08999634,91.40000153,84.62999725,18.56,-7.41
+SHOP,shopify,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",91.40000153,84.62999725,83.70999908,-7.41,-1.09
+SHOP,shopify,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,84.62999725,83.70999908,82.76999664,-1.09,-1.12
+SPOT,spotify,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",548.5499878,549.0800171,621.7700195,0.1,13.24
+SPOT,spotify,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",548.5499878,549.0800171,621.7700195,0.1,13.24
+SPOT,spotify,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",622.9899902,637.6900024,623.1500244,2.36,-2.28
+SPOT,spotify,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",599.8599854,584.1400146,586.8300171,-2.62,0.46
+SPOT,spotify,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",584.1400146,586.8300171,543.4099731,0.46,-7.4
+SPOT,spotify,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",543.4099731,532.0999756,489.2399902,-2.08,-8.05
+SPOT,spotify,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",508.4400024,535.8400269,537.9099731,5.39,0.39
+SPOT,spotify,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",615.8800049,576.3499756,580.2199707,-6.42,0.67
+SPOT,spotify,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",551.7299805,565.4099731,558.4199829,2.48,-1.24
+SPOT,spotify,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",503.2999878,518.97,518.3499756,3.11,-0.12
+SPOT,spotify,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",518.3499756,569.0599976,553.0200195,9.78,-2.82
+SPOT,spotify,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",569.0599976,553.0200195,543.6599731,-2.82,-1.69
+SPOT,spotify,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,553.0200195,543.6599731,549.1699829,-1.69,1.01
+SQ,block,2025-02-01,2025-01-31,2025-02-03,2025-02-05,"25% tax on Canadian and Mexican exports to the US. 10% on China",90.81999969,90.19999695,86,-0.68,-4.66
+SQ,block,2025-02-03,2025-01-31,2025-02-03,2025-02-05,"Mexico and Canada reach a deal to pause US tariffs for one month",90.81999969,90.19999695,86,-0.68,-4.66
+SQ,block,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",85.31999969,84.84999847,82.58999634,-0.55,-2.66
+SQ,block,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",62.79000092,59.43000031,61.11999893,-5.35,2.84
+SQ,block,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",59.43000031,61.11999893,59.79999924,2.84,-2.16
+SQ,block,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",59.79999924,60,54.74000168,0.33,-8.77
+SQ,block,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",55.29000092,55.90000153,54.04000092,1.1,-3.33
+SQ,block,2025-03-26,2025-03-21,2025-03-26,2025-04-07,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",61.11000061,NULL,50.47,NULL,NULL
+SQ,block,2025-04-02,2025-03-21,2025-04-02,2025-04-07,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",61.11000061,NULL,50.47,NULL,NULL
+TGT,target,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",137.9100037,134.1600037,135.6000061,-2.72,1.07
+TGT,target,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",137.9100037,134.1600037,135.6000061,-2.72,1.07
+TGT,target,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",131.3500061,131.2799988,132.4499969,-0.05,0.89
+TGT,target,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",120.7600021,117.1399994,116.5599976,-3,-0.5
+TGT,target,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",117.1399994,116.5599976,114.0500031,-0.5,-2.15
+TGT,target,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",114.0500031,115.0800018,113.8499985,0.9,-1.07
+TGT,target,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",112.7600021,107.2799988,104.5,-4.86,-2.59
+TGT,target,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",105.4000015,106.0899963,106.5100021,0.65,0.4
+TGT,target,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",104.4300003,105.7699966,94.27999878,1.28,-10.86
+TGT,target,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",95.72000122,94.38,88.76000214,-1.4,-5.95
+TGT,target,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",88.76000214,97.69000244,92.70999908,10.06,-5.1
+TGT,target,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",97.69000244,92.70999908,92.77999878,-5.1,0.08
+TGT,target,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,92.70999908,92.77999878,94.65000153,0.08,2.02
+TM,toyota,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",188.9299927,183.6499939,187.5599976,-2.79,2.13
+TM,toyota,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",188.9299927,183.6499939,187.5599976,-2.79,2.13
+TM,toyota,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",183.9799957,185.0599976,185.7400055,0.59,0.37
+TM,toyota,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",183.7899933,180.6600037,192.3500061,-1.7,6.47
+TM,toyota,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",180.6600037,192.3500061,187.5099945,6.47,-2.52
+TM,toyota,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",187.5099945,190.1799927,188.3500061,1.42,-0.96
+TM,toyota,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",184.5299988,185.6499939,182.9700012,0.61,-1.44
+TM,toyota,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",193.0099945,189.2799988,183.9799957,-1.93,-2.8
+TM,toyota,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",174.4199982,177.3099976,168.0700073,1.66,-5.21
+TM,toyota,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",158.6300049,160.34,159.3200073,1.08,-0.64
+TM,toyota,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",159.3200073,174.1399994,167.2200012,9.3,-3.97
+TM,toyota,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",174.1399994,167.2200012,169.4199982,-3.97,1.32
+TM,toyota,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,167.2200012,169.4199982,172,1.32,1.52
+TSLA,tesla,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",404.6000061,383.6799927,392.2099915,-5.17,2.22
+TSLA,tesla,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",404.6000061,383.6799927,392.2099915,-5.17,2.22
+TSLA,tesla,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",361.6199951,350.730011,328.5,-3.01,-6.34
+TSLA,tesla,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",284.6499939,272.0400085,279.1000061,-4.43,2.6
+TSLA,tesla,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",272.0400085,279.1000061,263.4500122,2.6,-5.61
+TSLA,tesla,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",263.4500122,262.6700134,222.1499939,-0.3,-15.43
+TSLA,tesla,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",230.5800018,248.0899963,240.6799927,7.59,-2.99
+TSLA,tesla,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",288.1400146,272.0599976,273.1300049,-5.58,0.39
+TSLA,tesla,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",268.4599915,282.7600098,267.2799988,5.33,-5.47
+TSLA,tesla,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",239.4299927,233.29,221.8600006,-2.56,-4.9
+TSLA,tesla,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",221.8600006,272.2000122,252.3999939,22.69,-7.27
+TSLA,tesla,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",272.2000122,252.3999939,252.3099976,-7.27,-0.04
+TSLA,tesla,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,252.3999939,252.3099976,252.3500061,-0.04,0.02
+UBER,uber,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",66.84999847,67.29000092,69.75,0.66,3.66
+UBER,uber,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",66.84999847,67.29000092,69.75,0.66,3.66
+UBER,uber,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",74.59999847,78.62999725,76.94999695,5.4,-2.14
+UBER,uber,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",74.44000244,75.26000214,76.48000336,1.1,1.62
+UBER,uber,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",75.26000214,76.48000336,74.95999908,1.62,-1.99
+UBER,uber,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",74.95999908,76.26999664,73.05999756,1.75,-4.21
+UBER,uber,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",70.65000153,71.19999695,69.51000214,0.78,-2.37
+UBER,uber,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",75.61000061,74.18000031,74.86000061,-1.89,0.92
+UBER,uber,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",72.98999786,74.5,69.84999847,2.07,-6.24
+UBER,uber,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",64.62000275,65.64,65.06999969,1.58,-0.87
+UBER,uber,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",65.06999969,72.68000031,70.94000244,11.7,-2.39
+UBER,uber,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",72.68000031,70.94000244,72.27999878,-2.39,1.89
+UBER,uber,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,70.94000244,72.27999878,73.09999847,1.89,1.13
+UBSFY,ubisoft,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",2.269999981,2.210000038,2.24000001,-2.64,1.36
+UBSFY,ubisoft,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",2.269999981,2.210000038,2.24000001,-2.64,1.36
+UBSFY,ubisoft,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",2.230000019,2.220000029,2.210000038,-0.45,-0.45
+UBSFY,ubisoft,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",2.549999952,2.589999914,2.710000038,1.57,4.63
+UBSFY,ubisoft,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",2.589999914,2.710000038,2.869999886,4.63,5.9
+UBSFY,ubisoft,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",2.869999886,2.940000057,2.859999895,2.44,-2.72
+UBSFY,ubisoft,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",2.74000001,2.730000019,2.630000114,-0.36,-3.66
+UBSFY,ubisoft,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",2.900000095,2.789999962,3.170000076,-3.79,13.62
+UBSFY,ubisoft,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",2.269999981,2.289999962,2.230000019,0.88,-2.62
+UBSFY,ubisoft,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",2.039999962,1.92,1.940000057,-5.88,1.04
+UBSFY,ubisoft,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",1.940000057,2.099999905,1.889999986,8.25,-10
+UBSFY,ubisoft,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",2.099999905,1.889999986,1.980000019,-10,4.76
+UBSFY,ubisoft,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,1.889999986,1.980000019,2.049999952,4.76,3.54
+UL,unilever,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",57.38000107,57.65000153,57.25,0.47,-0.69
+UL,unilever,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",57.38000107,57.65000153,57.25,0.47,-0.69
+UL,unilever,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",58.27000046,58.25999832,58.91999817,-0.02,1.13
+UL,unilever,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",57.70999908,58.02000046,58.34999847,0.54,0.57
+UL,unilever,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",58.02000046,58.34999847,58.25,0.57,-0.17
+UL,unilever,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",58.25,59.22999954,60.29000092,1.68,1.79
+UL,unilever,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",59.33000183,59.02999878,58.63000107,-0.51,-0.68
+UL,unilever,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",58.09000015,58.18999863,58.66999817,0.17,0.82
+UL,unilever,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",59.56999969,59.86000061,62.54999924,0.49,4.49
+UL,unilever,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",59.91999817,57.9,57.90000153,-3.37,0
+UL,unilever,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",57.90000153,59.41999817,59.90999985,2.63,0.82
+UL,unilever,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",59.41999817,59.90999985,61.90999985,0.82,3.34
+UL,unilever,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,59.90999985,61.90999985,62.24000168,3.34,0.53
+V,visa,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",341.7999878,345.8200073,345.1499939,1.18,-0.19
+V,visa,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",341.7999878,345.8200073,345.1499939,1.18,-0.19
+V,visa,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",348.019989,351.230011,350.7200012,0.92,-0.15
+V,visa,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",361.8200073,352.230011,352.6799927,-2.65,0.13
+V,visa,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",352.230011,352.6799927,344.1600037,0.13,-2.42
+V,visa,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",344.1600037,345.3200073,341.480011,0.34,-1.11
+V,visa,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",332.1400146,332.8399963,328.5499878,0.21,-1.29
+V,visa,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",344.6199951,344.1799927,349.8599854,-0.13,1.65
+V,visa,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",346.3500061,346.3299866,339.3900146,-0.01,-2
+V,visa,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",313.1300049,312.32,308.269989,-0.26,-1.3
+V,visa,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",308.269989,332.4299927,324.6099854,7.84,-2.35
+V,visa,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",332.4299927,324.6099854,333.3999939,-2.35,2.71
+V,visa,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,324.6099854,333.3999939,335.1799927,2.71,0.53
+ZI,zoominfo,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",10.28999996,10.18000031,10.43500042,-1.07,2.5
+ZI,zoominfo,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",10.28999996,10.18000031,10.43500042,-1.07,2.5
+ZI,zoominfo,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",10,10.27999973,10.22000027,2.8,-0.58
+ZI,zoominfo,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",11.53999996,11.77000046,11.89999962,1.99,1.1
+ZI,zoominfo,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",11.77000046,11.89999962,11.39999962,1.1,-4.2
+ZI,zoominfo,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",11.39999962,11.51000023,11.15999985,0.96,-3.04
+ZI,zoominfo,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",11.02000046,10.93999958,10.5,-0.73,-4.02
+ZI,zoominfo,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",11.11999989,11.02999973,10.81000042,-0.81,-1.99
+ZI,zoominfo,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",9.840000153,9.81000042,8.789999962,-0.3,-10.4
+ZI,zoominfo,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",7.53000021,7.76,7.409999847,3.05,-4.51
+ZI,zoominfo,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",7.409999847,8.56000042,7.840000153,15.52,-8.41
+ZI,zoominfo,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",8.56000042,7.840000153,7.929999828,-8.41,1.15
+ZI,zoominfo,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,7.840000153,7.929999828,8,1.15,0.88
+ZM,zoom video communications,2025-02-01,2025-01-31,2025-02-03,2025-02-04,"25% tax on Canadian and Mexican exports to the US. 10% on China",86.94000244,86.12000275,86.18000031,-0.94,0.07
+ZM,zoom video communications,2025-02-03,2025-01-31,2025-02-03,2025-02-04,"Mexico and Canada reach a deal to pause US tariffs for one month",86.94000244,86.12000275,86.18000031,-0.94,0.07
+ZM,zoom video communications,2025-02-10,2025-02-07,2025-02-10,2025-02-11,"25% import tax on all steel and aluminium entering the US",86.12000275,87.09999847,83.81999969,1.14,-3.77
+ZM,zoom video communications,2025-03-04,2025-03-03,2025-03-04,2025-03-05,"Increase on tariff for Chinese imports to 20%",74.30999756,74.93000031,75.59999847,0.83,0.89
+ZM,zoom video communications,2025-03-05,2025-03-04,2025-03-05,2025-03-06,"Temporarily exempts carmakers from the 25% tax imposed on Canada and Mexico",74.93000031,75.59999847,75.48000336,0.89,-0.16
+ZM,zoom video communications,2025-03-07,2025-03-06,2025-03-07,2025-03-10,"Expands the range of goods exempted from the Canada and Mexico tariffs",75.48000336,75.98000336,73.47000122,0.66,-3.3
+ZM,zoom video communications,2025-03-12,2025-03-11,2025-03-12,2025-03-13,"The 25% steel and aluminium tariffs take effect",73.15000153,73.94999695,72.23000336,1.09,-2.33
+ZM,zoom video communications,2025-03-26,2025-03-25,2025-03-26,2025-03-27,"Announces 25% duties on cars will apply from 2 April and on car parts at a later date but before 3 May",78.12999725,77.77999878,76.77999878,-0.45,-1.29
+ZM,zoom video communications,2025-04-02,2025-04-01,2025-04-02,2025-04-03,"Says the US will impose reciprocal tariffs of up to 50% on certain countries and 10% on imports from all other countries",74.01999664,75.04000092,73.25,1.38,-2.39
+ZM,zoom video communications,2025-04-05,2025-04-04,2025-04-07,2025-04-08,"The 10% tariffs take effect",67.75,68.05,66.69999695,0.44,-1.98
+ZM,zoom video communications,2025-04-09,2025-04-08,2025-04-09,2025-04-10,"Tariffs on roughly 60 countries are introduced. Announces a 90 day pause during which the 10% baseline rate will be paid. 125% tariff is applied for China",66.69999695,71.83000183,69.61000061,7.69,-3.09
+ZM,zoom video communications,2025-04-10,2025-04-09,2025-04-10,2025-04-11,"China retaliatory 84% levy on US goods takes effect. Says tariffs on China would reach 145% for some products due to a previous 20% levy for those producing the drug fentanyl",71.83000183,69.61000061,71.33999634,-3.09,2.49
+ZM,zoom video communications,2025-04-11,2025-04-10,2025-04-11,2025-04-14,China sets tariffs on US imports at 125% from 12 April.,69.61000061,71.33999634,71.98000336,2.49,0.9
