@@ -94,7 +94,7 @@ The analysis followed a structured path: identify key policy events, align them 
 - Open Collaboration: Contributions are welcome to improving the project and building a love dashboard version. 
 
 ## Tools Used
-- SQL (PostgreSQL) – Event-driven analysis, joining datasets, and calculating volatility and recovery metrics
+- SQL – Event-driven analysis, joining datasets, and calculating volatility and recovery metrics
 - Python – Data cleaning, preprocessing, and performance optimization
 - Jupyter Notebooks – Exploratory data analysis and iterative query testing
 - Docker – Containerized setup of Azure SQL Edge for local database hosting
