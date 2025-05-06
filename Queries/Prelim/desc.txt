@@ -1,1 +1,0 @@
-All queries to create tables, and explore the data
