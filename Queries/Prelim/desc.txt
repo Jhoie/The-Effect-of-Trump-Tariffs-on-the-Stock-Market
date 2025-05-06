@@ -1,0 +1,1 @@
+Preliminary queries like creating the table and understanding the data
