@@ -79,8 +79,31 @@ The analysis followed a structured path: identify key policy events, align them 
 - **Volume Reinforced Sentiment Trends:** Stocks like Tesla and Amazon had significant volume drops after the election, mirroring price declines and indicating fading investor enthusiasm. In contrast, McDonald’s and Spotify saw stable or increasing volume, supporting their stronger price performance.
 
 ## More Insights
+- Market reactions were generally negative following tariff announcements, with stocks experiencing an average –1.1% decline in the first trading day post-announcement. Indicating a consistent risk-averse sentiment among investors.
+- “Says the US will impose reciprocal tariffs on countries that subject US to unfair treatment” was the most impactful tariff on the stock market. This triggered a sharp –6.2% average decline across board, reflecting widespread market concern over escalating trade retaliation.
+- The tariff, “Increase on tariff for Chinese imports to 20%”, saw an average gain of +1.7%. 
+- Nvidia generally experienced a +1.7% rise before announcements, followed by a –1.6% drop after, showing its high sensitivity to the trade war/tariffs.
+- Coinbase averaged +1.6% before, but a notable –3.5% after annoumcements, making it one of the most tariff-sensitive stocks. 
 
 ## Recommendations
 - This isn’t investment advice, it’s a data project. Before acting on any findings, please do your own research or consult a licensed advisor.
 
+## Limitations
+- Static Data: This project is not connected to a live API, so updates won’t reflect immediately (future updates will work to improve this)
+- Time-Bound: Analysis only covers Trump's return to Presidency, from his victory announcement in November 6th, 2024 to April 15th, 2025 
+- Open Collaboration: Contributions are welcome to improving the project and building a love dashboard version. 
 
+## Tools Used
+- SQL (PostgreSQL) – Event-driven analysis, joining datasets, and calculating volatility and recovery metrics
+- Python – Data cleaning, preprocessing, and performance optimization
+- Jupyter Notebooks – Exploratory data analysis and iterative query testing
+- Docker – Containerized setup of Azure SQL Edge for local database hosting
+- Azure Data Studio – SQL querying, database management, and table uploads
+- GitHub – Version control, collaboration, and publishing of project code and documentation
+
+## Acknowledgments
+Thank you to all my friends and the communities I'm part of for supporting me throughout this project.
+
+## Disclaimers
+1. This is a data-driven analysis with no political affiliation.
+2. While Trump’s tariff policies are the case study, the stock market reacts to countless variables. This project isolates one variable — policy news — to study cause-effect patterns, not to suggest a full economic diagnosis.
