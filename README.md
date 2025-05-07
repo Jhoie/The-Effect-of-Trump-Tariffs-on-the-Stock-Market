@@ -60,7 +60,7 @@ The analysis followed a structured path: identify key policy events, align them 
   - Date Range Filtering: The dataset was filtered to include only stock price data between November 1, 2024, and April 15, 2025—corresponding to the period following Trump’s return to political activity. This significantly reduced the dataset size, improving the efficiency of downstream processing.
   - Removal of Blank Columns: Columns containing only null or empty values were identified and dropped to eliminate redundancy.
   - Deduplication: Duplicate rows were removed to maintain data integrity and prevent skewed results during analysis.
-  - Data Type Normalization: Numeric and date columns were converted to appropriate data types to ensure compatibility with SQL ingestion and querying.
+  - Data Type Normalization: Numeric and date columns were converted to appropriate data types to ensure compatibility with SQL ingestion and querying. Created tables with carefully defined primary keys and relational links. 
 
 * #### Analysis
   A series of SQL queries were designed and executed to examine how the stock market responded to tariff-related announcements during the selected period. The analysis focused on the relationship between political-economic events and stock price behavior across different companies and industries. Key components of the analysis included:
